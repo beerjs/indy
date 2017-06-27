@@ -1,3 +1,5 @@
+## BeerJS/indy
+
 :beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer:
 
 :beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer::beer:
@@ -23,10 +25,6 @@
 :beer::beer::beer::beer::beer::beer::beer::beer::beer::computer::beer::computer::beer::beer::beer::beer::beer::computer::beer::beer:
 
 :beer::beer::beer::beer::beer::beer::beer::beer::beer::computer::computer::computer::beer::beer::beer::computer::computer::computer::beer::beer:
-
-
-
-## BeerJS/indy
 
 This is the official Indianapolis beerjs group! 
 This group is for anyone interested in learning about Javascript - be that Node, React, johnnyfive, or any other awesome Javascript topic. 
