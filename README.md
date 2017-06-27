@@ -1,6 +1,4 @@
-:beer:
-:beer:
-:beer:
+:beer::beer::beer::beer::beer::beer:   
 
 ## BeerJS/indy
 
