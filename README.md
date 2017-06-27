@@ -37,6 +37,4 @@ Indy BeerJS meetings are going to loosely follow the following simple format, bu
 - 30 minute talk
 - 30 minutes of hanging out and potentially heading out to a nearby bar to grab a beer, talking about the talk, whatever people want to talk about
 
-![Computers](http://i.giphy.com/l0HlNaQ6gWfllcjDO.gif)
-
 *Note: beer.js is about creating social spaces to strengthen software communities. There is no requirement to drink to participate.*
